@@ -1,4 +1,4 @@
-# FCUP-ML2
+# FCUP-ML2 2023/2024
 
 ## Summary
 Project made for 2023/2024 edition of Machine Learning II course
