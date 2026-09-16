@@ -1,4 +1,4 @@
-![Alt text](https://imgs.search.brave.com/gR75jN_jDyhopBM9EBTff_vcj9KWFPqUp_8xVoAjbj0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y211cC5wdC9zaXRl/cy9kZWZhdWx0L2Zp/bGVzLzIwMTktMDMv/bG9nb19mY3VwLnBu/Zw)
+![Alt text](https://imgs.search.brave.com/ctVXUKB42jn0Eb2XLtXPkBtOSTgSIyDWb39UBb9HNPY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaXZ1/bGdhY2FvLmlhc3Ry/by5wdC93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wMy9GQ1VQ/X2xvZ28tcHJpbnRf/d2h0dHJhbnNwXzYw/MHBwaS02MDB4Mjkz/LnBuZw)
 
 # FCUP-ML2 2023/2024
 
