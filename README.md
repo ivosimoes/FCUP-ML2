@@ -14,5 +14,5 @@ Project made for 2023/2024 edition of Machine Learning II course
 
 ```text
 ├── Project.ipynb       # Source code notebook
-├── ML2Report.pdf       # Final project report (if applicable)
+├── ML2Report.pdf       # Final project report
 └── README.md           # Project details
