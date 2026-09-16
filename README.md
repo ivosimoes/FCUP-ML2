@@ -1,8 +1,16 @@
 # FCUP-ML2 2023/2024
 
-## Summary
 Project made for 2023/2024 edition of Machine Learning II course
 
-**Theme**: Construction of deep learning classifiers to label sounds from urban environments (UrbanSound8K)
+## Overview
 
-## Grade: 18.5/20
+**Theme**: Urban sound classification using deep learning classifiers
+
+**Objective**: This project explores the application of different deep learning architectures (MLP and CNN) for the classification of urban sounds in the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset.
+
+## Repository Structure
+
+```text
+├── Project.ipynb       # Source code notebook
+├── ML2Report.pdf       # Final project report (if applicable)
+└── README.md           # Project details
